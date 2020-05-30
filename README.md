@@ -1,5 +1,5 @@
 # Extracting-Traffic-Data-using-Computer-Vision-Techniques
-The aim of this project was to make a Computer vision model capable of assessing detecting vehicular density given an image frame which could be used to adjust the traffic signal durations. The problem statement for the project boils down to detecting vehicles in a given frame.
+
 
 The aim of this project was to make a Computer vision model capable of assessing detecting vehicular density given an image frame which could be used to adjust the traffic signal durations. The problem statement for the project boils down to detecting vehicles in a given frame.
 
